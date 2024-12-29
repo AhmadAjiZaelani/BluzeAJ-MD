@@ -20,7 +20,7 @@ global.APIs = {
 }
 
 global.APIKeys = {
-	'https://https://api.betabotz.eu.org': '' // Isi key lu
+	'https://https://api.betabotz.eu.org': 'Btz-eSwqi' // Isi key lu
 }
 
 global.logic = 'Kamu adalah BetaBotz Ai';
@@ -28,12 +28,12 @@ global.btz = '' //Register di https://api.betabotz.eu.org
 
 //Data
 global.grubbot = ''
-global.namabot = "BETABOTZ-MD3" // UBAH JADI NAMA LU
-global.namaowner = "Lann" // NAMA OWNER
-global.footer_text = "© 2024" + namabot // NAMA BOT
-global.pp_bot = "https://btch.pages.dev/file/2f8a45cd84b9877695664.jpg" // FOTO BOT MAX 50KB BIAR GA DELAY
+global.namabot = "BluzeAJ-MD" // UBAH JADI NAMA LU
+global.namaowner = "Aji" // NAMA OWNER
+global.footer_text = "© 2024" + BluzeAJ // NAMA BOT
+global.pp_bot = "https://telegra.ph/file/77fa7adeb46b4eb554254-7967be6778d4bec339.jpg" // FOTO BOT MAX 50KB BIAR GA DELAY
 global.qris = fs.readFileSync("./image/qris.jpg") // FOTO QRIS MAX 50KB BIAR GA DELLAY
-global.owner = ['6285842647866'] // UBAH NOMOR YANG MAU DI JADIKAN OWNER
+global.owner = ['6285117057679'] // UBAH NOMOR YANG MAU DI JADIKAN OWNER
 // - \\
 global.sessionName = 'session' // GAK USAH UBAH
 global.prefa = ['', '!', '.', '🐦', '🐤', '🗿'] // GAK USAH UBAH
