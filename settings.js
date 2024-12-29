@@ -27,7 +27,7 @@ global.logic = 'Kamu adalah BetaBotz Ai';
 global.btz = '' //Register di https://api.betabotz.eu.org
 
 //Data
-global.grubbot = ''
+global.grubbot = 'BluzeAJ'
 global.namabot = "BluzeAJ-MD" // UBAH JADI NAMA LU
 global.namaowner = "Aji" // NAMA OWNER
 global.footer_text = "© 2024" + BluzeAJ // NAMA BOT
